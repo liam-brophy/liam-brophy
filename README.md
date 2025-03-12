@@ -22,16 +22,6 @@
 
 </div>
 
-## How the Aquarium Works
-
-This aquarium is powered by:
-
-1. **GitHub Actions**: A workflow runs every few hours to update the fish positions
-2. **Visitor Interactions**: When you click "Feed the fish," a GitHub issue is created
-3. **ASCII Art**: The fish are created using ASCII characters
-
-### Feed the Fish!
-
 When you click the "Feed the fish" button, it creates an issue in this repository. A GitHub Action workflow detects this issue, updates the README to make the fish move faster for 24 hours, and then closes the issue.
 
 
