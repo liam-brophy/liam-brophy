@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/badge/%F0%9F%90%9F-Feed%20the%20fish-blue" alt="Feed the fish!">
 </a>
 
-<br><br>
-
 <!-- Fish will be updated via GitHub Actions -->
 ```
      ><((°>      
