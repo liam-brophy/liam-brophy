@@ -1,24 +1,4 @@
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
 
-<div align="center">
-
-```
-                        _
-  ____        .-""-.   //
- 6\_   \    .'      './/
- \___  \  /   '-.   .-'
-      \  |   '._____.'
-      |   \               ,   
-    _/     \              |)  <°)))><
-   /         \        ___/|
-  /           \______/    |
- /             \           
-/               \          
-```
-
-</div>
-
-## 🐟 The Aquarium
 
 <div align="center">
 
