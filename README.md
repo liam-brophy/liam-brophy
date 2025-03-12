@@ -9,12 +9,14 @@
 
 <!-- Fish will be updated via GitHub Actions -->
 ```
-       <><                                ><((°>                      
-                                                               ><((°> 
-                          <°)))><                                     
-             ><((°>      <°)))><                                      
-                                                        <°)))><       
                                                                       
+                                   ><((°>        ><((°>               
+   <><                                                         <><    
+                                                                  <>< 
+                      <°)))><                                         
+                            ><((°>>                                   
+
+The fish are swimming faster after being fed! 🌊
 ```
 
 </div>
