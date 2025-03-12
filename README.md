@@ -3,8 +3,8 @@
 <div align="center">
 
 <!-- This is our aquarium tank -->
-<a href="https://github.com/liam-brophy/liam-brophy/issues/new?title=Feed+the+fish&body=Just+click+submit+to+feed+the+fish%21">
-<img src="https://img.shields.io/badge/%F0%9F%90%9F-Feed%20the%20fish-blue" alt="Feed the fish!">
+<a href="https://github.com/yourusername/yourusername/issues/new?title=Feed+the+fish&body=Just+click+submit+to+feed+the+fish!">
+  <img src="https://your-image-url.com/fish.png" alt="Click to feed the fish!">
 </a>
 
 <!-- Fish will be updated via GitHub Actions -->
