@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- This is our aquarium tank -->
-<a href="https://github.com/yourusername/yourusername/issues/new?title=Feed+the+fish&body=Just+click+submit+to+feed+the+fish%21+The+fish+will+swim+faster+for+a+while.">
+<a href="https://github.com/liam-brophy/liam-brophy/issues/new?title=Feed+the+fish&body=Just+click+submit+to+feed+the+fish%21">
 <img src="https://img.shields.io/badge/%F0%9F%90%9F-Feed%20the%20fish-blue" alt="Feed the fish!">
 </a>
 
@@ -19,7 +19,7 @@
 
 </div>
 
-When you click the "Feed the fish" button, it creates an issue in this repository. A GitHub Action workflow detects this issue, updates the README to make the fish move faster for 24 hours, and then closes the issue.
+When you click the "Feed the fish" button, it creates an issue in this repository. A GitHub Action workflow detects this issue, updates the README to make the fish move, and then closes the issue. Come back to my page and see that they've moved!
 
 
 
