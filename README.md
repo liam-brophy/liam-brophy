@@ -1,29 +1,4 @@
-
-
-<div align="center">
-
-<!-- This is our aquarium tank -->
-<a href="https://github.com/yourusername/yourusername/issues/new?title=Feed+the+fish&body=Just+click+submit+to+feed+the+fish!">
-  <img src="https://your-image-url.com/fish.png" alt="Click to feed the fish!">
-</a>
-
-<!-- Fish will be updated via GitHub Actions -->
-```
-             <><           ><((°>                                     
-                          ><((°>            <°)))><                   
-                                                                      
-                 ><((°>                                               
-                                                                      
-                                      ><((°>                <><   <>< 
-```
-
-</div>
-
-When you click the "Feed the fish" button, it creates an issue in this repository. A GitHub Action workflow detects this issue, updates the README to make the fish move, and then closes the issue. Come back to my page and see that they've moved!
-
-
-
-# Thanks for feeing the fish 👋 I'm Liam  
+👋 I'm Liam  
 
 🔹 **Creative Technologist | Front-End Dev | Designer**  
 🔹 Passionate about blending design and technology with **React, Three.js, and AI tools**  
