@@ -1,7 +1,62 @@
-![Rolling Waves](https://upload.wikimedia.org/wikipedia/commons/f/f4/Asciiquarium.gif)
+[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
+
+<div align="center">
+
+```
+                        _
+  ____        .-""-.   //
+ 6\_   \    .'      './/
+ \___  \  /   '-.   .-'
+      \  |   '._____.'
+      |   \               ,   
+    _/     \              |)  <°)))><
+   /         \        ___/|
+  /           \______/    |
+ /             \           
+/               \          
+```
+
+</div>
+
+## 🐟 The Aquarium
+
+<div align="center">
+
+<!-- This is our aquarium tank -->
+<a href="https://github.com/yourusername/yourusername/issues/new?title=Feed+the+fish&body=Just+click+submit+to+feed+the+fish%21+The+fish+will+swim+faster+for+a+while.">
+<img src="https://img.shields.io/badge/%F0%9F%90%9F-Feed%20the%20fish-blue" alt="Feed the fish!">
+</a>
+
+<br><br>
+
+<!-- Fish will be updated via GitHub Actions -->
+```
+     ><((°>      
+                        <°)))><      
+    <><                                  ><((°>  
+                      <°)))><
+   <><                                     <><
+                          <°)))><    
+                ><((°>                            <><
+```
+
+</div>
+
+## How the Aquarium Works
+
+This aquarium is powered by:
+
+1. **GitHub Actions**: A workflow runs every few hours to update the fish positions
+2. **Visitor Interactions**: When you click "Feed the fish," a GitHub issue is created
+3. **ASCII Art**: The fish are created using ASCII characters
+
+### Feed the Fish!
+
+When you click the "Feed the fish" button, it creates an issue in this repository. A GitHub Action workflow detects this issue, updates the README to make the fish move faster for 24 hours, and then closes the issue.
 
 
-# Hello 👋 I'm Liam  
+
+# Thanks for feeing the fish 👋 I'm Liam  
 
 🔹 **Creative Technologist | Front-End Dev | Designer**  
 🔹 Passionate about blending design and technology with **React, Three.js, and AI tools**  
