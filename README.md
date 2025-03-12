@@ -15,6 +15,5 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ## 🎨 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge)]([https://liam.site/]) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]((https://www.linkedin.com/in/liam--brophy/)) 
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge)](https://liam.site/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/liam--brophy/)
