@@ -16,7 +16,6 @@
                       <°)))><                                         
                             ><((°>>                                   
 
-The fish are swimming faster after being fed! 🌊
 ```
 
 </div>
