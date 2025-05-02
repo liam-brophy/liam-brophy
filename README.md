@@ -13,7 +13,7 @@
 👋 I'm Liam  
 
 🔹 **Creative Technologist | Front-End Dev | Designer**  
-🔹 Passionate about blending design and technology with **React, Three.js, and AI tools**  
+🔹 Passionate about blending design and technology with: 
 
 ## 🛠️ Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
